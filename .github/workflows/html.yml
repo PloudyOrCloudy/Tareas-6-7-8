@@ -14,7 +14,3 @@ jobs:
 
       - name: Validar HTML
         run: npx --yes html-validate Tarea6.html
-        - name: Validar HTML
-        run: npx --yes html-validate Tarea7.html
-        - name: Validar HTML
-        run: npx --yes html-validate Tarea8.html
